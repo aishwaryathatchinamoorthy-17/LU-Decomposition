@@ -39,7 +39,8 @@ RegisterNumber: 26009012
 ``` 
 
 ## Output:
-![lu decomposition]()<img width="1054" height="358" alt="image" src="https://github.com/user-attachments/assets/30d6984c-09de-4795-bcd6-073fcf6969c7" />
+![lu decomposition]()
+<img width="1054" height="358" alt="image" src="https://github.com/user-attachments/assets/30d6984c-09de-4795-bcd6-073fcf6969c7" />
 <img width="824" height="174" alt="image" src="https://github.com/user-attachments/assets/04b53a19-1535-447c-a79b-9b9dd84bcc32" />
 
 
