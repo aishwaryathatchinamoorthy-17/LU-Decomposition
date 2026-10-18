@@ -16,8 +16,8 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
+<img width="606" height="606" alt="image" src="https://github.com/user-attachments/assets/3e5b3176-5ed7-4fcb-bed2-f14b0cff8a81" />
 
-<img width="614" height="569" alt="image" src="https://github.com/user-attachments/assets/e5980587-825c-437c-a312-836a711b793e" />
 ```
 
 /*
@@ -27,9 +27,7 @@ RegisterNumber: 26009012
 */
 ``` 
 (ii) To find the LU Decomposition of a matrix
-
-<img width="626" height="525" alt="image" src="https://github.com/user-attachments/assets/9293dcd6-d902-493e-851f-23fbe16a6560" />
-
+<img width="642" height="524" alt="image" src="https://github.com/user-attachments/assets/ecf14a3e-8079-46f2-8fc2-2c6450db9c7a" />
 
 ```
 /*
@@ -42,8 +40,12 @@ RegisterNumber: 26009012
 ## Output:
 
 ![lu decomposition]()
-<img width="986" height="436" alt="image" src="https://github.com/user-attachments/assets/6e377cd5-fcfe-434a-9c39-0218820e6bbc" />
-<img width="710" height="157" alt="image" src="https://github.com/user-attachments/assets/cad56941-615f-4809-9e4b-28aa19bd7dda" />
+
+<img width="1088" height="366" alt="image" src="https://github.com/user-attachments/assets/d405f5fa-5950-41d6-ac2a-a9e1c0e11eba" />
+<img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/35e837c9-1334-4785-9227-f6101d3c7674" />
+
+
+
 
 
 
